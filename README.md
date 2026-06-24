@@ -1,7 +1,7 @@
 <div align="center">
 
-### `> Joshua Mesidor`
-**`student • aspiring ai/ml engineer • winnipeg 🍁`**
+### > Joshua Mesidor
+**student • aspiring ai/ml engineer • winnipeg 🍁**
 
 <a href="https://www.linkedin.com/in/jmesidor37/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9D7CD8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:joshua.mesidor37@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-B19CD9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -13,13 +13,13 @@
 
 ### 🌸 about
 
-```yaml
+
 location: Winnipeg, MB 🇨🇦
 os:       Windows + Omarchy Linux
 editor:   VS Code + Vim
 learning: AI / ML
 hobbies:  gaming, anime, breaking things in the terminal
-```
+
 
 ### 🛠️ stack
 
