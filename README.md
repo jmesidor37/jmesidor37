@@ -11,16 +11,17 @@
 
 ---
 
-### about
+### 🌸 about
 
-
+```yaml
 location: Winnipeg, MB 🇨🇦
 os:       Windows + Omarchy Linux
 editor:   VS Code + Vim
 learning: AI / ML
+hobbies:  gaming, anime, breaking things in the terminal
+```
 
-
-### stack
+### 🛠️ stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-9D7CD8?style=flat-square&logo=python&logoColor=white"/>
@@ -36,7 +37,7 @@ learning: AI / ML
 
 <div align="center">
 
-### stats
+### 📊 stats
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jmesidor37&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B19CD9&icon_color=9D7CD8&text_color=C8A2C8&include_all_commits=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmesidor37&layout=compact&hide_border=true&bg_color=0D1117&title_color=B19CD9&text_color=C8A2C8"/>
