@@ -3,8 +3,8 @@
 ### `> Joshua Mesidor`
 **`student • aspiring ai/ml engineer • winnipeg 🍁`**
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/"><img src="https://img.shields.io/badge/LinkedIn-9D7CD8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-B19CD9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jmesidor37/"><img src="https://img.shields.io/badge/LinkedIn-9D7CD8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:joshua.mesidor37@gmail.com"><img src="https://img.shields.io/badge/Email-B19CD9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-C8A2C8?style=for-the-badge&logo=x&logoColor=white"/></a>
 
 </div>
