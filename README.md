@@ -1,6 +1,4 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=kfcpancakes&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 ### `> Joshua Mesidor`
 **`student • aspiring ai/ml engineer • winnipeg 🍁`**
