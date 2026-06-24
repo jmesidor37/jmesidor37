@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=kfcpancakes&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<!--
-**jmesidor37/jmesidor37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### `> Joshua Mesidor`
+**`student • aspiring ai/ml engineer • winnipeg`**
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE/"><img src="https://img.shields.io/badge/LinkedIn-9D7CD8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-B19CD9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-C8A2C8_?style=for-the-badge&logo=x&logoColor=white"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+### about
+```yaml
+location: Winnipeg, MB 🇨🇦
+os:       Windows + Omarchy Linux
+editor:   VS Code + Vim
+learning: AI / ML
+hobbies:  gaming, anime, breaking things in the terminal
