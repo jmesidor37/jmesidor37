@@ -14,7 +14,6 @@
 ---
 
 ### about
-```yaml
 location: Winnipeg, MB 🇨🇦
 os:       Windows + Omarchy Linux
 editor:   VS Code + Vim
@@ -29,4 +28,4 @@ hobbies:  gaming, anime, breaking things in the terminal
 💭 currently
 "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be." — Naruto Uzumaki
 
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=jmesidor37&style=flat-square&color=9D7CD8" alt="profile views"/> </div> ```
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=jmesidor37&style=flat-square&color=9D7CD8" alt="profile views"/> </div>
