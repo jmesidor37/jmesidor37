@@ -42,7 +42,6 @@ hobbies:  gaming, anime, breaking things in the terminal
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=jmesidor37&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B19CD9&icon_color=9D7CD8&text_color=C8A2C8&include_all_commits=true"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmesidor37&layout=compact&hide_border=true&bg_color=0D1117&title_color=B19CD9&text_color=C8A2C8"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jmesidor37&hide_border=true&background=0D1117&stroke=9D7CD8&ring=B19CD9&fire=C8A2C8&currStreakLabel=B19CD9"/>
 
 </div>
 
